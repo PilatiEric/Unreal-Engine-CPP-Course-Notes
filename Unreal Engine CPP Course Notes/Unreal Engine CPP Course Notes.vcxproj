@@ -19,6 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="1_Project_Setup.cpp" />
     <ClCompile Include="cpp_vs_blueprints.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">

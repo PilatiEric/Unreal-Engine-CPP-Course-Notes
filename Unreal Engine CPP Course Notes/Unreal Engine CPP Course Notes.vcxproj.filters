@@ -16,10 +16,16 @@
     <Filter Include="Source Files\1_Intro_notes">
       <UniqueIdentifier>{4b8c4e80-2375-4a02-b229-eba42c8408ed}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\2_Obstacle_Assault">
+      <UniqueIdentifier>{ac4b97bb-3f8a-45cb-b4d5-4b9f0e1ad321}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="cpp_vs_blueprints.cpp">
       <Filter>Source Files\1_Intro_notes</Filter>
+    </ClCompile>
+    <ClCompile Include="1_Project_Setup.cpp">
+      <Filter>Source Files\2_Obstacle_Assault</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
