@@ -1,5 +1,8 @@
 /*
 	C++ VS. Blueprint Notes
+
+	SOURCE: https://www.udemy.com/course/unrealcourse/learn/lecture/51564731#overview
+
 	----------------------------------------------------------------------------
 
 	- C++ is the general purpose programming language

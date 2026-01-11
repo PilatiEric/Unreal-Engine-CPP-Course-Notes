@@ -1,5 +1,8 @@
 /*
 	Project Setup Notes
+
+	SOURCE: https://www.udemy.com/course/unrealcourse/learn/lecture/51309795#overview
+
 	-----------------------------------------------------------------------------
 	Tabs at the Bottom
 	- Content Drawer
@@ -29,8 +32,4 @@
 			- Click on "Maps & Modes" on the left side under the "Project" section
 			- Changing "Editor Starup Map" and "Game Startup Map"
 			- Change the dropdown to the map you want
-	
-
-
-
 */
