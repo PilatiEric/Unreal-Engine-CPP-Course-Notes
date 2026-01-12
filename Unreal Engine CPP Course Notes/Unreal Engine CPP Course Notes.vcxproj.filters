@@ -36,5 +36,8 @@
     <ClCompile Include="Important_Functions.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="4_Live_Coding.cpp">
+      <Filter>Source Files\2_Obstacle_Assault</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
