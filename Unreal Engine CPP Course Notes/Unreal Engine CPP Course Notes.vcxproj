@@ -23,6 +23,7 @@
     <ClCompile Include="2_Geometry_Brushes.cpp" />
     <ClCompile Include="3_Creating_A_CPP_Class.cpp" />
     <ClCompile Include="4_Live_Coding.cpp" />
+    <ClCompile Include="5_Variables_And_Data_Types.cpp" />
     <ClCompile Include="cpp_vs_blueprints.cpp" />
     <ClCompile Include="Important_Functions.cpp" />
   </ItemGroup>
