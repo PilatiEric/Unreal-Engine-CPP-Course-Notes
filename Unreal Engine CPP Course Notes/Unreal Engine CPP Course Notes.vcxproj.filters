@@ -48,5 +48,11 @@
     <ClCompile Include="Log_Functions.cpp">
       <Filter>Source Files\Important_Functions</Filter>
     </ClCompile>
+    <ClCompile Include="9_Member_Functions.cpp">
+      <Filter>Source Files\2_Obstacle_Assault</Filter>
+    </ClCompile>
+    <ClCompile Include="Class_Functions.cpp">
+      <Filter>Source Files\Important_Functions</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

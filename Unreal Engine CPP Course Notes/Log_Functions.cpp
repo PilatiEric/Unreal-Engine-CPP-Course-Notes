@@ -11,6 +11,7 @@
 	- Allows log messages to be outputed in the Output Log in Unreal Engine by placing it inside of a function for a certain action
 	- Parameters (in order)
 		- Log Category
+			- Typical insert the LogTemp variable
 		- Level of Importance
 			- Display (Displays the text in WHITE)
 			- Warning (Displays the text in YELLOW)

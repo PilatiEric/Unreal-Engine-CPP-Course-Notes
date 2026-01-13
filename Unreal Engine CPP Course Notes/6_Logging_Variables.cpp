@@ -5,5 +5,5 @@
 
 	-------------------------------------------------------------------------------------------------------------------------
 
-	All notes for this one were put in the Important_Function.cpp under the UE_LOG function section
+	All notes for this one were put in the Log_Functions.cpp under the UE_LOG function section
 */

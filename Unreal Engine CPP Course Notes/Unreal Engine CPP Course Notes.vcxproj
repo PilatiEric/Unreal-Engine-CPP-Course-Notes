@@ -25,6 +25,8 @@
     <ClCompile Include="4_Live_Coding.cpp" />
     <ClCompile Include="5_Variables_And_Data_Types.cpp" />
     <ClCompile Include="6_Logging_Variables.cpp" />
+    <ClCompile Include="9_Member_Functions.cpp" />
+    <ClCompile Include="Class_Functions.cpp" />
     <ClCompile Include="cpp_vs_blueprints.cpp" />
     <ClCompile Include="Log_Functions.cpp" />
   </ItemGroup>
