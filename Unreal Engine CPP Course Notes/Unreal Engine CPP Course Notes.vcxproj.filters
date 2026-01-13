@@ -42,5 +42,8 @@
     <ClCompile Include="5_Variables_And_Data_Types.cpp">
       <Filter>Source Files\2_Obstacle_Assault</Filter>
     </ClCompile>
+    <ClCompile Include="6_Logging_Variables.cpp">
+      <Filter>Source Files\2_Obstacle_Assault</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
