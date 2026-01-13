@@ -26,7 +26,7 @@
     <ClCompile Include="5_Variables_And_Data_Types.cpp" />
     <ClCompile Include="6_Logging_Variables.cpp" />
     <ClCompile Include="cpp_vs_blueprints.cpp" />
-    <ClCompile Include="Important_Functions.cpp" />
+    <ClCompile Include="Log_Functions.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>

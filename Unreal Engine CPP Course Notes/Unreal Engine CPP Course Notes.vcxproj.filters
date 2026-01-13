@@ -19,6 +19,9 @@
     <Filter Include="Source Files\2_Obstacle_Assault">
       <UniqueIdentifier>{ac4b97bb-3f8a-45cb-b4d5-4b9f0e1ad321}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Important_Functions">
+      <UniqueIdentifier>{6d49cf8e-dde1-47a7-b333-4d4f8ded52ec}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="cpp_vs_blueprints.cpp">
@@ -33,9 +36,6 @@
     <ClCompile Include="3_Creating_A_CPP_Class.cpp">
       <Filter>Source Files\2_Obstacle_Assault</Filter>
     </ClCompile>
-    <ClCompile Include="Important_Functions.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="4_Live_Coding.cpp">
       <Filter>Source Files\2_Obstacle_Assault</Filter>
     </ClCompile>
@@ -44,6 +44,9 @@
     </ClCompile>
     <ClCompile Include="6_Logging_Variables.cpp">
       <Filter>Source Files\2_Obstacle_Assault</Filter>
+    </ClCompile>
+    <ClCompile Include="Log_Functions.cpp">
+      <Filter>Source Files\Important_Functions</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
