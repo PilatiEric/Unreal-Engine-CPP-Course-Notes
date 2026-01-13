@@ -22,6 +22,9 @@
     <Filter Include="Source Files\Important_Functions">
       <UniqueIdentifier>{6d49cf8e-dde1-47a7-b333-4d4f8ded52ec}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Important_Types">
+      <UniqueIdentifier>{8bf33622-6e8d-492e-a854-250cfd1ddf56}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="cpp_vs_blueprints.cpp">
@@ -53,6 +56,12 @@
     </ClCompile>
     <ClCompile Include="Class_Functions.cpp">
       <Filter>Source Files\Important_Functions</Filter>
+    </ClCompile>
+    <ClCompile Include="10_Structs.cpp">
+      <Filter>Source Files\2_Obstacle_Assault</Filter>
+    </ClCompile>
+    <ClCompile Include="Structs.cpp">
+      <Filter>Source Files\Important_Types</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
