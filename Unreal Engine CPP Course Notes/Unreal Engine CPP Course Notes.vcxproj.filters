@@ -63,5 +63,11 @@
     <ClCompile Include="Structs.cpp">
       <Filter>Source Files\Important_Types</Filter>
     </ClCompile>
+    <ClCompile Include="11_SetActorLocation.cpp">
+      <Filter>Source Files\2_Obstacle_Assault</Filter>
+    </ClCompile>
+    <ClCompile Include="Actor_Transform_Functions.cpp">
+      <Filter>Source Files\Important_Functions</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
