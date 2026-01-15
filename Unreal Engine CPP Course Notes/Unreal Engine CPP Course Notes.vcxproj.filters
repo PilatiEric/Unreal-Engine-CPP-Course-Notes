@@ -69,5 +69,11 @@
     <ClCompile Include="Actor_Transform_Functions.cpp">
       <Filter>Source Files\Important_Functions</Filter>
     </ClCompile>
+    <ClCompile Include="12_Tick.cpp">
+      <Filter>Source Files\2_Obstacle_Assault</Filter>
+    </ClCompile>
+    <ClCompile Include="Comparison_And_Range_Functions.cpp">
+      <Filter>Source Files\Important_Functions</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

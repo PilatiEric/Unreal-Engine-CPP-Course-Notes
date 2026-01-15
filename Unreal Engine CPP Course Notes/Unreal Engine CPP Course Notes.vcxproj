@@ -21,6 +21,7 @@
   <ItemGroup>
     <ClCompile Include="10_Structs.cpp" />
     <ClCompile Include="11_SetActorLocation.cpp" />
+    <ClCompile Include="12_Tick.cpp" />
     <ClCompile Include="1_Project_Setup.cpp" />
     <ClCompile Include="2_Geometry_Brushes.cpp" />
     <ClCompile Include="3_Creating_A_CPP_Class.cpp" />
@@ -30,6 +31,7 @@
     <ClCompile Include="9_Member_Functions.cpp" />
     <ClCompile Include="Class_Functions.cpp" />
     <ClCompile Include="Actor_Transform_Functions.cpp" />
+    <ClCompile Include="Comparison_And_Range_Functions.cpp" />
     <ClCompile Include="cpp_vs_blueprints.cpp" />
     <ClCompile Include="Log_Functions.cpp" />
     <ClCompile Include="Structs.cpp" />

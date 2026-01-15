@@ -10,6 +10,7 @@
 	- Allows you to set the coordinates of an actor's location
 	- Can be set inside of any action
 		- Example: BeginPlay()
+			- At starting the game, the actor will snap to the given location
 	- Parameters (in order)
 		- Coordinates
 			- Takes an FVector struct
