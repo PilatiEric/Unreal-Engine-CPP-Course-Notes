@@ -34,11 +34,11 @@
 
 	For ComputerA:
 	MovementSpeed (120) * DeltaTime (0.00833) = ~1 per Tick() call
-	Tick() Calls per second (1 / 0.00833 = ~120) * ~1 = ~120
+	Tick() Calls per second (1 / 0.00833 = ~120) * ~1 = ~120 change in movement/second
 
 	For ComputerB:
 	MovementSpeed (120) * DeltaTime (0.01666) = ~2 per Tick() call
-	Tick() Calls per second (1 / 0.01666 = ~60) * ~2 = ~120
+	Tick() Calls per second (1 / 0.01666 = ~60) * ~2 = ~120 change in movement/second
 
 
 
