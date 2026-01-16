@@ -7,6 +7,24 @@
 	----------------------------------------
 	------------SetActorLocation------------
 	----------------------------------------
+	- Give the current location of an actor as an FVector
+	- Parameters
+		- None
+	- Return
+		- FVector
+
+	FVector CurrentLocation = GetActorLocation();
+
+
+
+
+
+
+
+
+	----------------------------------------
+	------------SetActorLocation------------
+	----------------------------------------
 	- Allows you to set the coordinates of an actor's location
 	- Can be set inside of any action
 		- Example: BeginPlay()
