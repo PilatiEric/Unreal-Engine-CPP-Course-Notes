@@ -7,6 +7,6 @@
 
 
 	WHAT IS GetActorLocation
-	- Notes on GetActor Location are in Actor_Transform_Functions.cpp
+	- Notes on GetActorLocation are in Actor_Transform_Functions.cpp
 
 */
