@@ -4,11 +4,22 @@
 	----------------------------------------------------------------------------------------------
 
 
+	-------------------------------------------------------------
+	--------------------COMPARISON FUNCTIONS---------------------
+	-------------------------------------------------------------
+
+
+
+
+
+
 	----------------------------------------
 	----------FMath::IsNearlyEqual----------
 	----------------------------------------
 	- Checks to see if two doubles are nearly equal to a precise degree
-	- Useful for avoiding rounding errors when dealing with floating-point decimal variables
+
+	- WHAT TO USE FOR 
+		- Useful for avoiding rounding errors when dealing with floating-point decimal variables
 	- Parameters (in order)
 		- First Number (float)
 		- Second Number (float)
@@ -19,6 +30,7 @@
 		- Bool
 
 
+	HOW TO USE IN CODE
 	bool isNearlyEqual = FMath::IsNearlyEqual(1.3645, 1.3645);
 
 
@@ -35,7 +47,8 @@
 	-----------FMath::IsNearlyZero----------
 	----------------------------------------
 	- Checks if a floating point number is nearly zero
-	- Useful for avoiding rounding errors
+	- WHAT TO USE FOR
+		- Useful for avoiding rounding errors
 	- Parameters (in order)
 		- Number (float)
 		- ErrorTolerance (float)
@@ -43,9 +56,58 @@
 	- Return
 		- Bool
 
+	HOW TO USE IN CODE
 	bool isNearlyZero = FMath::IsNearlyZero(numberToCheck);
 
 
+
+
+
+
+
+
+
+
+
+
+
+	-------------------------------------------------------------
+	----------------------RANGE FUNCTIONS------------------------
+	-------------------------------------------------------------
+
+
+	----------------------------------------
+	------FMath::Clamp OR std::clamp--------
+	----------------------------------------
+	- Takes a value and checks if it is within a range
+		- It returns the value if it's within the range or the min or max of the range (whichever is closer)
+	- WHAT TO USE FOR
+		- EXTREMELY GOOD for keeping an actor's position within a certain range
+	- Parameters (in order)
+		- Value (any number type)
+		- Min range value (same as the type of the first parameter)
+		- Max range value (same as teh type of the first parameter)
+	- Returns
+		- Same type as was passed in
+
+
+
+	HOW TO USE IN CODE
+	if (!IsPlatformStill)
+	{
+		CurrentLocation.X -= (MovementSpeed * DeltaTime);
+
+		// Determine if the platform has reached the end of its path
+		float clipped = std::clamp (CurrentLocation.X, -420.f, 220.f);
+		if (clipped != CurrentLocation.X)
+		{
+			MovementSpeed *= -1.f;
+			IsPlatformStill = true;
+			CurrentLocation.X = clipped;
+		}
+
+		SetActorLocation(CurrentLocation);
+	}
 
 
 
@@ -68,5 +130,6 @@
 	- Return
 		- Bool
 
+	HOW TO USE IN CODE
 	bool isWithin = FMath::IsWithin(5, 1.0f, 7.0f);
 */

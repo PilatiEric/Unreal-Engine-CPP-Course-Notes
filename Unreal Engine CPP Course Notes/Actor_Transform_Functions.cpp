@@ -38,4 +38,26 @@
 	FVector TestVector = FVector(220.0f, -150.0f, 390.0f);
 
 	SetActorLocation(TestVector);
+
+
+
+
+
+
+
+
+
+
+
+
+	------------------------------------------------------------------------------
+	-------------USEFUL RELATED FUNCTIONS AND WHERE TO FIND THEM------------------
+	------------------------------------------------------------------------------
+
+	----------------------------------------
+	--------------FVector::Dist-------------
+	----------------------------------------
+	- Calculates distance between to FVectors
+	- Function Info Location
+		- Structs.cpp
 */

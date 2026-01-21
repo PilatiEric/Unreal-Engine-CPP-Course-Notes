@@ -84,5 +84,11 @@
     <ClCompile Include="16_Velocity.cpp">
       <Filter>Source Files\2_Obstacle_Assault</Filter>
     </ClCompile>
+    <ClCompile Include="21_Blueprint_Child_Classes.cpp">
+      <Filter>Source Files\2_Obstacle_Assault</Filter>
+    </ClCompile>
+    <ClCompile Include="Struct_Functions.cpp">
+      <Filter>Source Files\Important_Functions</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
