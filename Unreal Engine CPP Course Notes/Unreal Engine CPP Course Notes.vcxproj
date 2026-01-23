@@ -28,6 +28,7 @@
     <ClCompile Include="1_Project_Setup.cpp" />
     <ClCompile Include="21_Blueprint_Child_Classes.cpp" />
     <ClCompile Include="24_Overshoot_Problem.cpp" />
+    <ClCompile Include="25_Correcting_Overshoot.cpp" />
     <ClCompile Include="2_Geometry_Brushes.cpp" />
     <ClCompile Include="3_Creating_A_CPP_Class.cpp" />
     <ClCompile Include="4_Live_Coding.cpp" />
