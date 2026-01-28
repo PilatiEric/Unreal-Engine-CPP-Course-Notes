@@ -99,5 +99,8 @@
     <ClCompile Include="25_Correcting_Overshoot.cpp">
       <Filter>Source Files\2_Obstacle_Assault</Filter>
     </ClCompile>
+    <ClCompile Include="27_Rotating_Platforms.cpp">
+      <Filter>Source Files\2_Obstacle_Assault</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

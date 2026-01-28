@@ -5,6 +5,26 @@
 
 
 	----------------------------------------
+	----------------FROTATOR----------------
+	----------------------------------------
+	- Specific to Unreal
+	- Used for rotation angle
+		- Has three floats (X, Y, Z)
+
+	struct FVector
+	{
+		float X;
+		float Y;
+		Float Z;
+	}
+
+	FRotator rotatingPlatform = FRotator(0.f, 0.f, 0.f);
+
+
+
+
+
+	----------------------------------------
 	----------------FVECTOR-----------------
 	----------------------------------------
 	- Specific to Unreal

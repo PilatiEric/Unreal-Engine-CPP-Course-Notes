@@ -2,6 +2,28 @@
 	----------------------------------------------------------------------------------------------
 	-------------------------------ACTOR TRANSFORM FUNCTIONS--------------------------------------
 	----------------------------------------------------------------------------------------------
+	
+
+	----------------------------------------
+	----------AddActorLocalRotation---------
+	----------------------------------------
+	- Allows to set how much the rotational angle of an actor changes
+	- Can be set inside of any action
+		- Example: Tick()
+	-Parameters (in order)
+		- X (float)
+		- Y (float)
+		- Z (float)
+
+	FRotator rotationToAdd = RotationVelocity * DeltaTime;
+
+	AddActorLocalRotation(rotationToAdd);
+
+
+
+
+
+
 
 
 	----------------------------------------
