@@ -25,4 +25,7 @@
 	- Use this when correcting overshoot
 	- Return
 		- FVector
+
+	FVector VectorVar;
+	Fvector SafeVector = VectorVar.GetSafeNormal();
 */
