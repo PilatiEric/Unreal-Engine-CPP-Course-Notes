@@ -30,6 +30,6 @@
 			- Click on Edit tab at the top of the screen
 			- Click on Project Settings
 			- Click on "Maps & Modes" on the left side under the "Project" section
-			- Changing "Editor Starup Map" and "Game Startup Map"
+			- Changing "Editor Startup Map" and "Game Startup Map"
 			- Change the dropdown to the map you want
 */
