@@ -105,5 +105,8 @@
     <ClCompile Include="28_Importing_Assets.cpp">
       <Filter>Source Files\2_Obstacle_Assault</Filter>
     </ClCompile>
+    <ClCompile Include="29_Creating_Obstacles.cpp">
+      <Filter>Source Files\2_Obstacle_Assault</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
