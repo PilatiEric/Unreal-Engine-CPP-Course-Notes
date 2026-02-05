@@ -111,5 +111,8 @@
     <ClCompile Include="30_ Movement_And_Physics.cpp">
       <Filter>Source Files\2_Obstacle_Assault</Filter>
     </ClCompile>
+    <ClCompile Include="31_Level_Design.cpp">
+      <Filter>Source Files\2_Obstacle_Assault</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
