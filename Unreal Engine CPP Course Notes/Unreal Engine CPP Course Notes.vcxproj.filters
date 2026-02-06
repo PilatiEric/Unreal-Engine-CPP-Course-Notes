@@ -25,6 +25,9 @@
     <Filter Include="Source Files\Important_Types">
       <UniqueIdentifier>{8bf33622-6e8d-492e-a854-250cfd1ddf56}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\3_Dungeon_Escape">
+      <UniqueIdentifier>{5dd16d46-7099-4fe8-bdbe-4ddd8b0ac8f3}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="cpp_vs_blueprints.cpp">
@@ -113,6 +116,12 @@
     </ClCompile>
     <ClCompile Include="31_Level_Design.cpp">
       <Filter>Source Files\2_Obstacle_Assault</Filter>
+    </ClCompile>
+    <ClCompile Include="32_Packaging_The_Game.cpp">
+      <Filter>Source Files\2_Obstacle_Assault</Filter>
+    </ClCompile>
+    <ClCompile Include="1_Creating_The_Project.cpp">
+      <Filter>Source Files\3_Dungeon_Escape</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
