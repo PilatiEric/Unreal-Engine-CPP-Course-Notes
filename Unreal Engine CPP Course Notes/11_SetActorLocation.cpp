@@ -12,7 +12,7 @@
 	- Look under the Details section on the right side
 	- Click "Add"
 	- When the list of selections pops up, click "Cube"
-	-The MovingPlatform now should have a Transform section
+	- The MovingPlatform now should have a Transform section
 
 	The first item (cube) added to a component (MovingPlaform) becomes the "Root Component"
 

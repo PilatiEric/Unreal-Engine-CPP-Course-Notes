@@ -5,6 +5,11 @@
 
 	----------------------------------------------------------------------------------------------------------------------------------------------------
 
+	NOTES ABOUT OBJECT SET TO MOVE A CERTAIN DISTANCE
+	- Do NOT set the MoveDistance to be a negative number
+		- It causes a weird issue where it just transports to where it needs to go
+
+
 	CONTROLLING THE CHARACTER'S MOVEMENTS
 	- This involves things like controlling how high they can jump and how fast they can move
 	
