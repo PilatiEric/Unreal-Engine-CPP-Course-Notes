@@ -40,6 +40,7 @@
     <ClCompile Include="32_Packaging_The_Game.cpp" />
     <ClCompile Include="3_Creating_A_CPP_Class.cpp" />
     <ClCompile Include="3_Materials.cpp" />
+    <ClCompile Include="4_Game_Mode.cpp" />
     <ClCompile Include="4_Live_Coding.cpp" />
     <ClCompile Include="5_Variables_And_Data_Types.cpp" />
     <ClCompile Include="6_Logging_Variables.cpp" />

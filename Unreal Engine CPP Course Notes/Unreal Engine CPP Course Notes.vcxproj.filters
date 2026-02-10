@@ -129,5 +129,8 @@
     <ClCompile Include="3_Materials.cpp">
       <Filter>Source Files\3_Dungeon_Escape</Filter>
     </ClCompile>
+    <ClCompile Include="4_Game_Mode.cpp">
+      <Filter>Source Files\3_Dungeon_Escape</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
