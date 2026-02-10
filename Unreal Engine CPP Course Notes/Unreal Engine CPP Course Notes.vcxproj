@@ -34,6 +34,7 @@
     <ClCompile Include="28_Importing_Assets.cpp" />
     <ClCompile Include="29_Creating_Obstacles.cpp" />
     <ClCompile Include="2_Geometry_Brushes.cpp" />
+    <ClCompile Include="2_Lighting_Setup.cpp" />
     <ClCompile Include="30_ Movement_And_Physics.cpp" />
     <ClCompile Include="31_Level_Design.cpp" />
     <ClCompile Include="32_Packaging_The_Game.cpp" />
