@@ -12,7 +12,7 @@
 
 	DIRECTIONAL LIGHT
 	- Think of this as like the sun
-	- It lights everything from every angle
+	- It lights everything depending on its angle
 	- It doesn't really matter where it's at, but it's good to set it to (0, 0, 0)
 
 	ADDING A SKY TO THE LEVEL
