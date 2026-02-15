@@ -135,5 +135,8 @@
     <ClCompile Include="5_ Inheritance_VS_Composition.cpp">
       <Filter>Source Files\3_Dungeon_Escape</Filter>
     </ClCompile>
+    <ClCompile Include="6_Actor_Components.cpp">
+      <Filter>Source Files\3_Dungeon_Escape</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
