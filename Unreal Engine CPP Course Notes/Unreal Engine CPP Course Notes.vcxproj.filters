@@ -138,5 +138,8 @@
     <ClCompile Include="6_Actor_Components.cpp">
       <Filter>Source Files\3_Dungeon_Escape</Filter>
     </ClCompile>
+    <ClCompile Include="7_Pointers_101.cpp">
+      <Filter>Source Files\3_Dungeon_Escape</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
