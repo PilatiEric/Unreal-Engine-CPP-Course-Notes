@@ -28,4 +28,21 @@
 
 	FVector VectorVar;
 	Fvector SafeVector = VectorVar.GetSafeNormal();
+
+
+
+
+	----------------------------------------
+	-------VectorVar.ToCompactString--------
+	----------------------------------------
+	- Takes all the coordinates of an FVector and displays it in a string
+	- Good for checking coordinates that are not member variables
+	- When displaying it, remember to put an * in front of the variable name
+		- *VarVector.ToCompactString()
+	- Return
+		- FString
+
+	FVector VarVector = FVector(1.f, 1.f, 1.f);
+	FString = VarVector.ToCompactString();
+
 */

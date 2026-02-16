@@ -47,6 +47,7 @@
     <ClCompile Include="6_Actor_Components.cpp" />
     <ClCompile Include="6_Logging_Variables.cpp" />
     <ClCompile Include="7_Pointers_101.cpp" />
+    <ClCompile Include="8_Pointer_Practice.cpp" />
     <ClCompile Include="9_Member_Functions.cpp" />
     <ClCompile Include="Actor_Info_Functions.cpp" />
     <ClCompile Include="Class_Functions.cpp" />
