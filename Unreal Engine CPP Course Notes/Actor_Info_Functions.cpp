@@ -14,4 +14,19 @@
 		- FString
 
 	string Name = GetName();
+
+
+	----------------------------------------
+	----------------GetOwner----------------
+	----------------------------------------
+	- Gets a pointer to the Actor that owns the component
+	- This would allow you to use any function in the AActor
+		- EXAMPLES
+			- GetActorNameOrLabel()
+			- GetActorLocation()
+			- SetActorLocation()
+	- Return
+		- AActor* (AActor pointer)
+
+	AActor* MyOwner = GetOwner();
 */

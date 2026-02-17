@@ -144,5 +144,8 @@
     <ClCompile Include="8_Pointer_Practice.cpp">
       <Filter>Source Files\3_Dungeon_Escape</Filter>
     </ClCompile>
+    <ClCompile Include="9_GetOwner.cpp">
+      <Filter>Source Files\3_Dungeon_Escape</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
