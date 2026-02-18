@@ -22,6 +22,38 @@
 
 
 
+	----------------------------------------
+	--------FMath::VInterpConstantTo--------
+	----------------------------------------
+	- Calculates movement from start to target location for an FVector
+	- Allows us to not have to do much work to get an object to the correct location
+	- MAJOR NOTES
+		- Requires the FMath header file to be included in the class to use this
+		- #include "Math/UnrealMathUtility.h"
+	- Parameters (in order)
+		- CurrentLocation (FVector)
+		- TargetLocation (FVector)
+		- DeltaTime (float)
+		- InterpSpeed (float)
+
+	IN Beginplay()
+	StartLocation = GetOwner() -> GetActorLocation();
+
+	TargetLocation = StartLocation + MoveOffset;
+
+	IN TickComponent()
+	FVector CurrentLocation = GetOwner() -> GetActorLocation();
+
+	ALTERNATIVE WAY OFF GETTING MOVEOFFSET RATHER THAN MANUALLY SETTING IT
+	// MoveOffset = TargetLocation - StartLocation;
+
+	float Speed = MoveOffset.Length() / MoveTime;
+
+	FVector NewLocation = FMath::VInterpConstantTo(CurrentLocation, TargetLocation, DeltaTime, Speed);
+
+	GetOwner() -> SetActorLocation(NewLocation);
+
+
 
 
 
