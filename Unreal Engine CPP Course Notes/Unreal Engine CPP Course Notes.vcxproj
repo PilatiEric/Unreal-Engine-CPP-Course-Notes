@@ -23,6 +23,7 @@
     <ClCompile Include="10_Structs.cpp" />
     <ClCompile Include="11_Owner_Goes_Back.cpp" />
     <ClCompile Include="11_SetActorLocation.cpp" />
+    <ClCompile Include="12_FVector_Equals.cpp" />
     <ClCompile Include="12_Tick.cpp" />
     <ClCompile Include="14_GetActorLocation.cpp" />
     <ClCompile Include="15_Delta_Time.cpp" />

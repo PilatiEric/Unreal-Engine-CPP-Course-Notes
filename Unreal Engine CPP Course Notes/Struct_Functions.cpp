@@ -15,6 +15,19 @@
 	DistanceMoved = FVector::Dist(StartLocation, CurrentLocation);
 
 
+	----------------------------------------
+	-----------VectorVar.Equals-------------
+	----------------------------------------
+	- Compares two FVectors
+	- Parameters (in order)
+		- OtherVector (FVector)
+
+	FVector FirstVector = FVector(1.f, 1.f, 1.f);
+	FVector SecondVector = FVector(1.f, 1.f, 1.f);
+
+	FirstVector.Equals(SecondVector);
+
+
 
 
 	----------------------------------------
