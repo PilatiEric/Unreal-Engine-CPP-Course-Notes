@@ -150,5 +150,8 @@
     <ClCompile Include="10_FMath_VInterpConstantTo.cpp">
       <Filter>Source Files\3_Dungeon_Escape</Filter>
     </ClCompile>
+    <ClCompile Include="11_Owner_Goes_Back.cpp">
+      <Filter>Source Files\3_Dungeon_Escape</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
