@@ -29,6 +29,7 @@
     <ClCompile Include="14_GetActorLocation.cpp" />
     <ClCompile Include="15_Box_Component.cpp" />
     <ClCompile Include="15_Delta_Time.cpp" />
+    <ClCompile Include="16_The_Constructor.cpp" />
     <ClCompile Include="16_Velocity.cpp" />
     <ClCompile Include="1_Creating_The_Project.cpp" />
     <ClCompile Include="1_Project_Setup.cpp" />
