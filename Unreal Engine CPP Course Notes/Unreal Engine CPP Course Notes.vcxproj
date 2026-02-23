@@ -25,6 +25,7 @@
     <ClCompile Include="11_SetActorLocation.cpp" />
     <ClCompile Include="12_FVector_Equals.cpp" />
     <ClCompile Include="12_Tick.cpp" />
+    <ClCompile Include="14_C++_Compilation_Steps.cpp" />
     <ClCompile Include="14_GetActorLocation.cpp" />
     <ClCompile Include="15_Delta_Time.cpp" />
     <ClCompile Include="16_Velocity.cpp" />
