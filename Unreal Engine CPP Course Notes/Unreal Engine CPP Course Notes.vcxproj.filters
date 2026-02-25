@@ -171,5 +171,11 @@
     <ClCompile Include="18_True_And_False_Values.cpp">
       <Filter>Source Files\3_Dungeon_Escape</Filter>
     </ClCompile>
+    <ClCompile Include="19_Using_Delagates.cpp">
+      <Filter>Source Files\3_Dungeon_Escape</Filter>
+    </ClCompile>
+    <ClCompile Include="Delegates.cpp">
+      <Filter>Source Files\Important_Functions</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -33,6 +33,7 @@
     <ClCompile Include="16_Velocity.cpp" />
     <ClCompile Include="17_FindComponentByClass.cpp" />
     <ClCompile Include="18_True_And_False_Values.cpp" />
+    <ClCompile Include="19_Using_Delagates.cpp" />
     <ClCompile Include="1_Creating_The_Project.cpp" />
     <ClCompile Include="1_Project_Setup.cpp" />
     <ClCompile Include="21_Blueprint_Child_Classes.cpp" />
@@ -63,6 +64,7 @@
     <ClCompile Include="Actor_Transform_Functions.cpp" />
     <ClCompile Include="Comparison_And_Range_Functions.cpp" />
     <ClCompile Include="cpp_vs_blueprints.cpp" />
+    <ClCompile Include="Delegates.cpp" />
     <ClCompile Include="Log_Functions.cpp" />
     <ClCompile Include="Structs.cpp" />
     <ClCompile Include="Struct_Functions.cpp" />
