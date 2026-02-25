@@ -3,6 +3,8 @@
 
 	SOURCE: https://www.udemy.com/course/unrealcourse/learn/lecture/51806193#overview
 
+	SUMMARY: Shows how to be able to simplify checks for nullptr due to what is evaluated as true or false in C++
+
 	--------------------------------------------------------------------------------------------------------------------------------------------------------
 
 	FACTS ABOUT TRUE AND FALSE IN C++
