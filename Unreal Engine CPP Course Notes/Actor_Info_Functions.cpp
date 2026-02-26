@@ -5,6 +5,24 @@
 
 
 	----------------------------------------
+	--------------ActorHasTag---------------
+	----------------------------------------
+	- Checks all tags for the given AActor to see if it has the one given as an argument
+	- Can be used with if statements to determine which actor can activate certain events
+		- EXAMPLE: The player can activate the Overlap events, but a chair can't
+	- Class with this function
+		- AActor
+	- Arguments (in order)
+		- TagName (FName or String)
+	- Return
+		- Bool
+
+	AActor* MoverActor;
+
+	bool HasTag = MoverActor->ActorHasTag("PressurePlateActivator");
+
+
+	----------------------------------------
 	----------FindComponentByClass----------
 	----------------------------------------
 	- Looks to see if an Actor contains the pointer for a certain class

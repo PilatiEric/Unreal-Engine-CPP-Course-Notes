@@ -177,5 +177,8 @@
     <ClCompile Include="Delegates.cpp">
       <Filter>Source Files\Important_Functions</Filter>
     </ClCompile>
+    <ClCompile Include="20_Actor_Tags.cpp">
+      <Filter>Source Files\3_Dungeon_Escape</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

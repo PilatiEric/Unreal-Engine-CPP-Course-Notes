@@ -36,6 +36,7 @@
     <ClCompile Include="19_Using_Delagates.cpp" />
     <ClCompile Include="1_Creating_The_Project.cpp" />
     <ClCompile Include="1_Project_Setup.cpp" />
+    <ClCompile Include="20_Actor_Tags.cpp" />
     <ClCompile Include="21_Blueprint_Child_Classes.cpp" />
     <ClCompile Include="24_Overshoot_Problem.cpp" />
     <ClCompile Include="25_Correcting_Overshoot.cpp" />
