@@ -34,7 +34,8 @@
 	- Return
 		- FString
 
-	string Name = GetName();
+	AActor* Actor;
+	FString Name = Actor->GetName();
 
 
 	----------------------------------------
