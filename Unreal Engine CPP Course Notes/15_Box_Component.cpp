@@ -3,6 +3,8 @@
 
 	SOURCE: https://www.udemy.com/course/unrealcourse/learn/lecture/51746127#overview
 
+	SUMMARY: Create a component that is attached to actors that detects when another actor enters it. Like an invisible, intangible box.
+
 	-----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 	WHAT'S NEED FOR A TRIGGER COMPONENT
