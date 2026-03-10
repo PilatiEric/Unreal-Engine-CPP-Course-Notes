@@ -40,6 +40,7 @@
     <ClCompile Include="21_Blueprint_Child_Classes.cpp" />
     <ClCompile Include="22_Public_And_Private.cpp" />
     <ClCompile Include="23_Keeping_Count.cpp" />
+    <ClCompile Include="24_BP_PressurePlate.cpp" />
     <ClCompile Include="24_Overshoot_Problem.cpp" />
     <ClCompile Include="25_Correcting_Overshoot.cpp" />
     <ClCompile Include="27_Rotating_Platforms.cpp" />
