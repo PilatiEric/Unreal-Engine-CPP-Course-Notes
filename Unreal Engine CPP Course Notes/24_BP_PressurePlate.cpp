@@ -3,7 +3,7 @@
 
 	SOURCE: https://www.udemy.com/course/unrealcourse/learn/lecture/51864233#overview
 
-	SUMMARY:
+	SUMMARY: How to streamline making pressure plates, and notes on multiple movers to a trigger
 
 	--------------------------------------------------------------------------------------------------------------------------------------------------------
 

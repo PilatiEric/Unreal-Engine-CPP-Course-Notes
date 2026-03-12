@@ -42,6 +42,7 @@
     <ClCompile Include="23_Keeping_Count.cpp" />
     <ClCompile Include="24_BP_PressurePlate.cpp" />
     <ClCompile Include="24_Overshoot_Problem.cpp" />
+    <ClCompile Include="25_Adding_Tags_in_CPP.cpp" />
     <ClCompile Include="25_Correcting_Overshoot.cpp" />
     <ClCompile Include="27_Rotating_Platforms.cpp" />
     <ClCompile Include="28_Importing_Assets.cpp" />
@@ -63,6 +64,7 @@
     <ClCompile Include="8_Pointer_Practice.cpp" />
     <ClCompile Include="9_GetOwner.cpp" />
     <ClCompile Include="9_Member_Functions.cpp" />
+    <ClCompile Include="Actor_Data_Types.cpp" />
     <ClCompile Include="Actor_Info_Functions.cpp" />
     <ClCompile Include="Class_Functions.cpp" />
     <ClCompile Include="Actor_Transform_Functions.cpp" />

@@ -189,5 +189,11 @@
     <ClCompile Include="24_BP_PressurePlate.cpp">
       <Filter>Source Files\3_Dungeon_Escape</Filter>
     </ClCompile>
+    <ClCompile Include="25_Adding_Tags_in_CPP.cpp">
+      <Filter>Source Files\3_Dungeon_Escape</Filter>
+    </ClCompile>
+    <ClCompile Include="Actor_Data_Types.cpp">
+      <Filter>Source Files\Important_Functions</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
