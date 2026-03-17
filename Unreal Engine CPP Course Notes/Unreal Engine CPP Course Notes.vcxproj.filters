@@ -201,5 +201,8 @@
     <ClCompile Include="Component_Functions.cpp">
       <Filter>Source Files\Important_Functions</Filter>
     </ClCompile>
+    <ClCompile Include="27_Lock_Blueprint.cpp">
+      <Filter>Source Files\3_Dungeon_Escape</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
