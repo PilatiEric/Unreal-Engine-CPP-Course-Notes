@@ -192,7 +192,13 @@
     <ClCompile Include="25_Adding_Tags_in_CPP.cpp">
       <Filter>Source Files\3_Dungeon_Escape</Filter>
     </ClCompile>
+    <ClCompile Include="26_CreateDefaultSubobject.cpp">
+      <Filter>Source Files\3_Dungeon_Escape</Filter>
+    </ClCompile>
     <ClCompile Include="Actor_Data_Types.cpp">
+      <Filter>Source Files\Important_Types</Filter>
+    </ClCompile>
+    <ClCompile Include="Component_Functions.cpp">
       <Filter>Source Files\Important_Functions</Filter>
     </ClCompile>
   </ItemGroup>

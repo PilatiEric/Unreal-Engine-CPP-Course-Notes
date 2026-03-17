@@ -44,6 +44,7 @@
     <ClCompile Include="24_Overshoot_Problem.cpp" />
     <ClCompile Include="25_Adding_Tags_in_CPP.cpp" />
     <ClCompile Include="25_Correcting_Overshoot.cpp" />
+    <ClCompile Include="26_CreateDefaultSubobject.cpp" />
     <ClCompile Include="27_Rotating_Platforms.cpp" />
     <ClCompile Include="28_Importing_Assets.cpp" />
     <ClCompile Include="29_Creating_Obstacles.cpp" />
@@ -69,6 +70,7 @@
     <ClCompile Include="Class_Functions.cpp" />
     <ClCompile Include="Actor_Transform_Functions.cpp" />
     <ClCompile Include="Comparison_And_Range_Functions.cpp" />
+    <ClCompile Include="Component_Functions.cpp" />
     <ClCompile Include="cpp_vs_blueprints.cpp" />
     <ClCompile Include="Delegates.cpp" />
     <ClCompile Include="Log_Functions.cpp" />
