@@ -3,7 +3,7 @@
 
 	SOURCE: https://www.udemy.com/course/unrealcourse/learn/lecture/51879319#overview
 
-	SUMMARY: 
+	SUMMARY: Shows how to set up a lock blueprint for quickly creating new locks
 
 	--------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -36,5 +36,4 @@
 	- Using the "Static Mesh" find the item you want to set as the activator for the lock
 	- Make sure the item is placed properly
 	- Raise the TriggerComponent box so it's roughly covering the activator
-	- 
 */

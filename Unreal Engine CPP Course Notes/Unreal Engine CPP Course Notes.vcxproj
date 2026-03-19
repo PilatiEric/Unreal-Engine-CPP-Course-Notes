@@ -47,6 +47,7 @@
     <ClCompile Include="26_CreateDefaultSubobject.cpp" />
     <ClCompile Include="27_Lock_Blueprint.cpp" />
     <ClCompile Include="27_Rotating_Platforms.cpp" />
+    <ClCompile Include="28_Collision_101.cpp" />
     <ClCompile Include="28_Importing_Assets.cpp" />
     <ClCompile Include="29_Creating_Obstacles.cpp" />
     <ClCompile Include="2_Geometry_Brushes.cpp" />
