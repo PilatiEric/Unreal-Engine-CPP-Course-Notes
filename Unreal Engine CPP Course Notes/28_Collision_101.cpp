@@ -3,7 +3,7 @@
 
 	SOURCE: https://www.udemy.com/course/unrealcourse/learn/lecture/51879325#overview
 
-	SUMMARY: 
+	SUMMARY: A large explanation on the collision settings in an Actor's display panel
 
 	--------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -16,6 +16,7 @@
 	- Look at "Collision Presets"
 	- Click on the dropdown
 	- These are the most common collision settings made by unreal
+
 	- SOME TYPES OF PRESETS
 		- Pawn
 			- Actors controlled by the player
@@ -26,6 +27,7 @@
 	- A bunch of options will appear allowing us to customize
 		- Collision Enabled
 			- Determines type of collision the actor can do
+
 			- OPTIONS
 				- No Collisions
 					- Allows other things to go through the object
@@ -39,8 +41,10 @@
 					- The default setting
 					- Can do both Query and Physics
 				- There are two more we don't care about right now
+
 		- Object Type
 			- How the object is represented in the physics engine
+
 			- OPTIONS
 				- WorldStatic
 					- An actor that doesn't move
@@ -54,7 +58,9 @@
 				- Vehicle
 				- Destructible
 				- Projectilr
+
 			- Important because it determines how we'll respond to collisions with other types
+
 		- CHECKBOX OPTIONS
 			- All have an Ignore, Overlap, and Block option
 				- Ignore
@@ -63,6 +69,7 @@
 					- Actors will go through each other but generate over
 				- Block
 					- Two actors collide and stop
+
 			- OPTIONS
 				- Collision Responses
 					- Selecting an option here selects the same option for all the other responses
@@ -71,6 +78,7 @@
 				- Object Responses
 					- These are options for "Object Type" as described above
 					- This allows us to decide how this one object will interact with a specific Object Type
+
 			- COLLISION RESPONSE PRECEDENCE
 				- Collision response least set to blocking will be the one that happens
 					- Ignore > Overlap > Block
