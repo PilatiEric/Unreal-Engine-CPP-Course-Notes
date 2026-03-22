@@ -54,6 +54,7 @@
     <ClCompile Include="2_Geometry_Brushes.cpp" />
     <ClCompile Include="2_Lighting_Setup.cpp" />
     <ClCompile Include="30_ Movement_And_Physics.cpp" />
+    <ClCompile Include="30_Enhanced_Input_System.cpp" />
     <ClCompile Include="31_Level_Design.cpp" />
     <ClCompile Include="32_Packaging_The_Game.cpp" />
     <ClCompile Include="3_Creating_A_CPP_Class.cpp" />

@@ -210,5 +210,8 @@
     <ClCompile Include="29_Setting_Visibility.cpp">
       <Filter>Source Files\3_Dungeon_Escape</Filter>
     </ClCompile>
+    <ClCompile Include="30_Enhanced_Input_System.cpp">
+      <Filter>Source Files\3_Dungeon_Escape</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
