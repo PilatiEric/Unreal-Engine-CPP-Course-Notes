@@ -25,7 +25,7 @@
 				- OPEN UP THE "IMC_Default"
 					- The most important section is the "Mappings" section
 					- Expand the "Mappings" section
-						- When you creat an IMC, the mappings section will normally be blank
+						- When you create an IMC, the mappings section will normally be blank
 						- Click on the Plus (+) symbol to add one
 						- Click on the dropdown in the item created and pick the action you want
 						-UNFOLD AN INDIVIDUAL ITEM
@@ -48,6 +48,7 @@
 	- Click the Keyboard symbol on the new item create
 	- Click the button you want to assign to the action
 		- We used the "Left Mouse Button"
+		- I added the "E" key as well
 		- AS A NOTE
 			- You can also use the dropdown next to the keyboard symbol to manually choose from a list which button or controller stick to assign an action to
 
