@@ -3,7 +3,7 @@
 
 	SOURCE: https://www.udemy.com/course/unrealcourse/learn/lecture/51925791#overview
 
-	SUMMARY: 
+	SUMMARY: Describes how to map new actions to the character using C++ for the player to use
 
 	--------------------------------------------------------------------------------------------------------------------------------------------------------
 

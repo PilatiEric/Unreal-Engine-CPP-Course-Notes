@@ -216,5 +216,8 @@
     <ClCompile Include="31_Input_System_In_CPP.cpp">
       <Filter>Source Files\3_Dungeon_Escape</Filter>
     </ClCompile>
+    <ClCompile Include="32_Line_And_Shape_Tracing.cpp">
+      <Filter>Source Files\3_Dungeon_Escape</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
