@@ -59,6 +59,7 @@
     <ClCompile Include="31_Level_Design.cpp" />
     <ClCompile Include="32_Line_And_Shape_Tracing.cpp" />
     <ClCompile Include="32_Packaging_The_Game.cpp" />
+    <ClCompile Include="33_UWorld_Object.cpp" />
     <ClCompile Include="3_Creating_A_CPP_Class.cpp" />
     <ClCompile Include="3_Materials.cpp" />
     <ClCompile Include="4_Game_Mode.cpp" />
@@ -82,6 +83,8 @@
     <ClCompile Include="Log_Functions.cpp" />
     <ClCompile Include="Structs.cpp" />
     <ClCompile Include="Struct_Functions.cpp" />
+    <ClCompile Include="Unreal_Engine_Types.cpp" />
+    <ClCompile Include="UWorld_Functions_And_Variables.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>

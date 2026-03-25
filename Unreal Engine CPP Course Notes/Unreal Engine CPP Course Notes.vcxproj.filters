@@ -219,5 +219,14 @@
     <ClCompile Include="32_Line_And_Shape_Tracing.cpp">
       <Filter>Source Files\3_Dungeon_Escape</Filter>
     </ClCompile>
+    <ClCompile Include="33_UWorld_Object.cpp">
+      <Filter>Source Files\3_Dungeon_Escape</Filter>
+    </ClCompile>
+    <ClCompile Include="Unreal_Engine_Types.cpp">
+      <Filter>Source Files\Important_Types</Filter>
+    </ClCompile>
+    <ClCompile Include="UWorld_Functions_And_Variables.cpp">
+      <Filter>Source Files\Important_Functions</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
